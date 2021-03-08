@@ -22,5 +22,5 @@
 
 **数据处理及分析过程参考：**
 
-[「数据分析」春节档电影数据分析](数据处理及数据分析过程)
+[「数据分析」春节档电影数据分析](https://kameee.top/archives/moviedataanalysis)
 
